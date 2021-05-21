@@ -1,0 +1,25 @@
+.lista{
+    z-index: 102;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.listado ol{
+    list-style: none;
+    display:list-item;
+}
+.listado li a:hover{
+    color: rgb(106, 138, 19);
+    text-decoration:line-through;
+ }
+ .listado li a{
+     display: list-items;
+     padding: auto;
+     text-decoration: none;
+     color: turquoise;
+
+ }
+ .cuerpo{
+     background: rgba(172, 170, 170, 0.534);
+     text-align: center;
+ }
